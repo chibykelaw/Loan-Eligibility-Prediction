@@ -6,5 +6,5 @@ The company wants to automate the loan eligility process (real-time) based on cu
 
 There are 13 features (columns) in this dataset.
 
-source: Kaggle
+data source: Kaggle
 
